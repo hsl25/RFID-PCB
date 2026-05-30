@@ -1,0 +1,11 @@
+﻿*-bak
+*.bak
+_autosave-*
+*.lck
+*.drl
+*.gbrjob
+*.rpt
+*.csv
+
+fp-info-cache
+__pycache__/
